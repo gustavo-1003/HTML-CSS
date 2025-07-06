@@ -1,0 +1,11 @@
+Aula 3 - Domínio e hospedagem
+
+		Domínio
+.Um nome único que vai conseguir identificar o seu site
+.Url é um domínio
+.EX: cursoemvideo.com.br (.com, .gov.br)
+
+
+		Hospedagem
+.Espaço para armazenar (Tipo um pendrive)
+.MUITO importante

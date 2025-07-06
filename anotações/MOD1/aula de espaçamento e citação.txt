@@ -1,0 +1,11 @@
+aula de espaçamento
+
+<code> - ajusta o espaçamento das letras 
+
+o code pode ser usado com o <pre>: que deixa a endentação (igual o código)
+
+quando for citação NUNCA usar "" e sim o <q>
+
+<blockquote cite=" "> : Tem uma quebra de linha e deslocamento horizontal para a direita
+
+<abbr> : colocar significado na sigla, quando passar o mouse aparecer o significado dela

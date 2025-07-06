@@ -1,0 +1,30 @@
+		Conteúdo em HTML
+
+<h1>Exemplo de título<h1>
+<p>Exemplo de parágrafo<p>
+<imgsrc="foto.png" alt="exemplo de foto">
+
+		Estilo em CSS
+
+.(Configurar h1(Título)):
+h1 {
+	font-family: Arial;
+	font-size:20pt;
+	color:blue;
+	}
+		
+		Documentação:
+
+<!DOCTYPE html>
+<html lang="pt-br">
+	<head>
+		<meta charset = "utf-8">  (permitir ç,ã)
+		<meta name = "viewport"  (Tela 100%)
+		contente = "width=device-width,initial-scale=1.0"> 
+		<title>Document</title> (Título do site)
+	<head>
+	<body>
+		<h1>Olá, Mundo!<h1>
+	<body>
+<html>
+

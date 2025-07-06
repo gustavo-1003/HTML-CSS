@@ -1,0 +1,11 @@
+Aula 4 - Diferença HTML,CSS e JavaScript
+
+.HTML e CSS NÃO são linguagens de programação  
+.JavaScript é uma linguagem de programação
+
+		Diferenças:
+  
+.HTML: É um conteúdo (texto, Imagens, Vídeos, Tabelas)
+.CSS: Design (cores, Sombras, tamanhos, posicionamento)
+.JavaScript: interações (Menus, Animações, Validações)
+

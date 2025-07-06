@@ -1,0 +1,4 @@
+cor de fundo : blackground-color
+fonte da página: font-family
+tamanho da fonte: font-size
+organizar letra: font-family

@@ -1,0 +1,6 @@
+listas
+
+lista ordenadas usar <ol Type='' start=''> e dentro de <ol> usar <li>
+start é opcional para onde vc quer começar
+
+listas não ordenadas usar ul (aprece uma bolinha no começo da palavra da lista)

@@ -1,0 +1,9 @@
+Aula quebra de linha/emoji 
+
+<hr> |Forma uma linha
+
+<br> quebra o texto 
+
+&lt:,   &gt:, (Para usar < ou > no cod)
+
+&#x1:  Colocar emoji
